@@ -1,0 +1,11 @@
+/.idea/
+
+/data/*
+/images/*
+
+/test/
+
+/src/test/
+/src/go.sum
+
+docker-compose.yml

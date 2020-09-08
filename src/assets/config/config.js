@@ -1,0 +1,1 @@
+const baseURL = "http://localhost:5050" // eslint-disable-line no-unused-vars
